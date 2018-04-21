@@ -24,9 +24,15 @@
         <Image Source="escudo.jpg" ></Image>
         <Image Source="equipo.jpg" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" ></Image>
  master
+
+        <Image Source="juanCuadrado.jpg" Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="2" ></Image>
+
+
+ master
         <Image Source="teofiloGutierrez.jpg" Grid.Column="3" Grid.Row="3"></Image>
         <Image Source="edwinCardona.jpg" Grid.Column="0" Grid.Row="2"></Image>
  master
+master
     </Grid>
           
 
