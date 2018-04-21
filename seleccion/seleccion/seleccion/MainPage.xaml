@@ -24,6 +24,7 @@
         <Image Source="escudo.jpg" ></Image>
         <Image Source="equipo.jpg" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" ></Image>
         <Image Source="edwinCardona.jpg" Grid.Column="0" Grid.Row="2"></Image>
+        <Image Source="carlosBacca.jpg" Grid.Column="2" Grid.Row="0" ></Image>
     </Grid>
           
 
